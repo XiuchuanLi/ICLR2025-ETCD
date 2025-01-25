@@ -1,3 +1,7 @@
+# Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations
+
+This repository is the official implementation of [Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations].
+
 ## Usage
 
 Install kerpy
@@ -25,3 +29,17 @@ scipy 1.10.1
 pandas 2.0.3
 
 matplotlib 3.7.2
+
+## Reference
+If you have used our work in your own, please consider citing:
+
+```bibtex
+@inproceedings{
+  li2025efficient,
+  title={Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations},
+  author={Li, Xiu-Chuan and Liu, Tongliang},
+  booktitle={International Conference on Learning Representations},
+  year={2025}
+}
+```
+
