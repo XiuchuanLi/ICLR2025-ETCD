@@ -39,7 +39,7 @@ If you have used our work in your own, please consider citing:
   title={Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations},
   author={Li, Xiu-Chuan and Liu, Tongliang},
   booktitle={International Conference on Learning Representations},
-  year={2025},
+  year={2025}
 }
 ```
 
