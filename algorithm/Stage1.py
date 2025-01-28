@@ -7,7 +7,7 @@ class Stage1():
     def __init__(self, data):
         self.V = data
         self.Vc = list(range(len(self.V)))
-        self.Vc2V = {i:(i, i) for i in range(len(self.V))} # two created children are two copies of itself
+        self.Vc2V = {i:(i, i) for i in range(len(self.V))} # two created children are two copies of itself, see Rem. of Thm. 2 in App. C.2.1
         self.V_children = {i:[] for i in range(len(self.V))}
         self.pointer = len(self.V)
     
