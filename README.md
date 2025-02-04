@@ -1,6 +1,8 @@
 # Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations
 
-This repository is the official implementation of [Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations].
+[![Paper](https://img.shields.io/badge/paper-ICLR-green)]()
+
+This repository is the official implementation of [Efficient and Trustworthy Causal Discovery with Latent Variables and Complex Relations] (ICLR 2025).
 
 ## Usage
 
