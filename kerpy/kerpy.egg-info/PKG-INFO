@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: kerpy
+Version: 0.1.0
+Summary: Code for kernel methods
+Home-page: https://github.com/oxmlcs/kerpy
+License: MIT
+License-File: LICENSE
